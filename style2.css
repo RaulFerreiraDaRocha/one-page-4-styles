@@ -1,0 +1,97 @@
+/* 
+   https://raulferreiradarocha.com.br
+   4 styles
+   License: GPL
+*/
+
+
+
+
+
+
+body{
+  background: gainsboro;
+}
+.box_nav{
+  float: right;
+  position: relative;
+  top: -50px;
+}
+.box_nav .nav_list{
+    list-style: none;
+    float: left;
+    padding: 8px 40px;
+    margin: 10px;
+    font-size: 2em;
+    background: black;
+    color: white;
+    border: 2px solid white;
+}
+a{
+	text-decoration: none;
+	color: white!important;
+}
+.main{
+  float: right;
+  width: 55%;
+  position: relative;
+  top: 40px;
+}
+
+header{
+  position: relative;
+  left: 40.5%;
+  width: 55.5%;
+  top: 120px;
+  background: black;
+  color: white;
+  padding: 20px; 
+  text-align: center;
+  font-size: x-large;
+}
+.main h1 { 
+  background: green;
+  color: white;
+  padding: 20px;
+  position: relative;
+  left: -30px;
+} 
+.main p{
+  position: relative;
+  left: -30px;
+  background: black;
+  color: white;
+  padding: 8px;
+  font-weight: bold;
+}
+.main h2 { 
+  background: #B22222 ; 
+  color: #F0FFF0;
+  padding: 20px;
+  position: relative;
+  left: -30px;
+}
+footer{
+  background: gainsboro;
+  padding: 8px;
+  position: relative;
+  left: -30px;
+}
+#barra{
+  background: gray;
+  width: 35%;
+  color: white;
+  padding: 8px;
+}
+footer{
+   background: black;
+   color: white;
+   padding: 18px;
+   font-size: 1.1em;
+}
+footer h3{
+  background: gainsboro;
+  padding: 18px;
+  box-shadow: 4px 4px 4px;
+  text-shadow: 3px 3px 3px black;
+}

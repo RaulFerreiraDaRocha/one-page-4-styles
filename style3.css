@@ -1,0 +1,54 @@
+/* 
+   https://raulferreiradarocha.com.br
+   4 styles
+   License: GPL
+*/
+
+
+body{
+  background: green;
+}
+*{
+  font-family: Verdana;
+}
+.header_css{
+  color: white;
+   text-align: center;
+  padding: 40px;
+  font-size: 2em;
+}
+.main{
+  background: #ADFF2F;
+}
+.box_nav{
+  width: 80%;
+  
+  margin: auto;
+}
+.box_nav .nav_list{
+  display: inline;
+  list-style: none;
+  position: relative;
+  top: -10px;
+  left: 2.5%;
+  color: white;
+  border: 1px solid white;
+  padding: 10px 90px;
+}
+a{
+	text-decoration: none;
+	color: white!important;
+}
+ .main h1 { 
+   background: green; color: white;
+}
+.main h2 { background: #B22222 ; color: #F0FFF0 }
+footer{
+  background: white;
+  text-align: center;
+  padding: 20px;
+}
+#barra{
+  color: white;
+  padding: 12px;
+}
